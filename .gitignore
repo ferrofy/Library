@@ -1,0 +1,7 @@
+Make A Folder
+
+Delete
+
+on That run command python -m build
+then twine upload dist/*
+ note : Upgrade Version in setup.py
