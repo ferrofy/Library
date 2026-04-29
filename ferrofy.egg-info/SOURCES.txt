@@ -1,0 +1,5 @@
+setup.py
+ferrofy.egg-info/PKG-INFO
+ferrofy.egg-info/SOURCES.txt
+ferrofy.egg-info/dependency_links.txt
+ferrofy.egg-info/top_level.txt

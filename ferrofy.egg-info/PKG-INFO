@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ferrofy
+Version: 0.2.0.0
+Summary: FerroFy Library
+Home-page: https://github.com/ferrofy/Library
+Author: FerroFy | Vikrant Pathania
+Author-email: team.ferrofy@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

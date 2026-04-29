@@ -2,11 +2,7 @@
 
 ## 📁 Steps
 
-1. 📂 **Create a folder - 'Delete'**
-
-2. 🗑️ **Run The Commands On That Empty Folder**
-
-3. 🛠️ **Build dist/***
+1. 🛠️ **Build dist/***
 
 ```bash
 python -m build
