@@ -1,5 +1,13 @@
 setup.py
+ferrofy/__init__.py
 ferrofy.egg-info/PKG-INFO
 ferrofy.egg-info/SOURCES.txt
 ferrofy.egg-info/dependency_links.txt
 ferrofy.egg-info/top_level.txt
+ferrofy/Hashing_Algo/Blake.py
+ferrofy/Hashing_Algo/Other.py
+ferrofy/Hashing_Algo/SHA.py
+ferrofy/Hashing_Algo/Shake.py
+ferrofy/Hashing_Algo/__init__.py
+ferrofy/Math/Basics.py
+ferrofy/Math/__init__.py

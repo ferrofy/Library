@@ -8,13 +8,13 @@
 python -m build
 ```
 
-4. 🚀 **Upload the package to PyPI using Twine**
+2. 🚀 **Upload the package to PyPI using Twine**
 
 ```bash
 twine upload dist/*
 ```
 
-5. **Add Your API Key**
+3. **Add Your API Key**
 
 # ⚠️ Note
 
